@@ -1,8 +1,14 @@
-site_name: Infrastructure Docs
+site_name: Dev Docs
 site_url: https://sitename.example
 theme:
   name: material
   logo: assets/logo.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.instant
+    - navigation.tracking
   palette: 
     # Dark Mode
     - scheme: slate
