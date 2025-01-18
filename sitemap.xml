@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/basics/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/cookiefactory/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/discord/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/empires/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/patreon/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/survivor/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/survivor/Test/</loc>
+         <lastmod>2025-01-18</lastmod>
+    </url>
+</urlset>
